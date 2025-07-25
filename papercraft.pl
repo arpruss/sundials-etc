@@ -160,14 +160,12 @@ Daylight savings adjustment text: <input type="text" name="color-dst" value="$co
 <input type="submit" name="go" value="Go!"/>
 </form>
 <h2>Source code and references</h2>
-<p>The source code for this perl script is available <a href="http://sourceforge.net/p/analemmatic/code">here</a>.  You need to get papercraft.pl and zipcodes.dat, and keep them in the same directory.  You will also need the
+<p>The source code for this perl script is available <a href="http://github.com/arpruss/sundials-etc">here</a>.  You need to get papercraft.pl and zipcodes.dat, and keep them in the same directory.  You will also need the
 <a href="http://search.cpan.org/~markusb/PDF-Create-1.06/lib/PDF/Create.pm">PDF::Create</a> perl package.</p>
 <p>I used a formula from
 <a href="http://www.ips.gov.au/Category/Educational/The%20Sun%20and%20Solar%20Activity/General%20Info/EquationOfTime.pdf">here</a>.</p>
 <h2>Copyright</h2>
-<p>The script (not including PDF::Create) is copyright (c) 2011 Alexander R. Pruss, and is available under a
-<a href="http://en.wikipedia.org/wiki/BSD_licenses#2-clause_license_.28.22Simplified_BSD_License.22_or_.22FreeBSD_License.22.29">two-clause
-BSD license.</a>.  Alexander R. Pruss hereby releases into the public domain any and all
+<p>The script (not including PDF::Create) is copyright (c) 2011 Alexander R. Pruss, and is available under the MIT license.</a>.  Alexander R. Pruss hereby releases into the public domain any and all
 copyrightable visual elements in the output.  Courtesy suggests, though the law may not require,
 that credit be given for use of the script when you use its output.</p>
 </body>
